@@ -1,3 +1,4 @@
+import java.util.Scanner; // loads Scanner definition for our use
 public class InputExample {
     public static void main(String[ ] args) {
         Scanner input = new Scanner(System.in);
